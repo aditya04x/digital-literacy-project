@@ -68,6 +68,8 @@ digital-literacy-project/
 ├── report/
 └── README.md
 
-Conclusion
+## Conclusion
+
+---
 
 This project helped me understand the importance of digital literacy, professional communication, and online safety. It also improved my ability to use digital tools effectively.
