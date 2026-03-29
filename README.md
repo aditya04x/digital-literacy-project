@@ -29,7 +29,7 @@ Created an infographic using Canva covering:
 Created and updated profiles on:
 - GitHub
 - LinkedIn
-- Kaggle
+- HackerRank
 
 ---
 
@@ -38,7 +38,10 @@ Created and updated profiles on:
 - Created a Google Form titled "Digital Literacy Awareness Quiz"
 
 ### Google Form Link
-[Paste your Google Form link here]
+https://docs.google.com/forms/d/e/1FAIpQLSdP7LfhkOp1Cac5cH98_zEWD9BT0obqAHyv13t5rKfwZZDnvA/viewform?usp=header
+
+### Spreadsheet link for responses
+https://docs.google.com/spreadsheets/d/1myHdfWwNDQLZQaiQrDvFWUfsC0BfBJPlpIXTFKTiz60/edit?usp=sharing
 
 ---
 
